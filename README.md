@@ -1,3 +1,4 @@
+![logo](https://github.com/UniquePG/UniquePG/blob/main/downloadfile-2.jpg)
 <h1 align="center">Hi 👋, I'm Pavan Gupta</h1>
 <h3 align="center">I am a passionate full-stack developer from India</h3>
 
